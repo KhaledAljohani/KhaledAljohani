@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{15FBEE96-7100-4AC8-AF6A-1D6460578332}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RainbowSchoolProject/Program.cs">
+    <Files>
+      <File FileName="RainbowSchoolProject/Program.cs" Line="49" Column="87" />
+      <File FileName="RainbowSchoolProject/Teacher.cs" />
+      <File FileName="RainbowSchoolProject/TeachersData.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RainbowSchoolProject" expanded="True">
+            <Node name="RainbowSchoolProject" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.RainbowSchoolProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
